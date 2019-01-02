@@ -1,0 +1,25 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+clicks	D:/用户目录/Documents/xspworkspace/auto-sign/xsp/src\config.lua	9;"	e
+config	D:/用户目录/Documents/xspworkspace/auto-sign/xsp/src\config.lua	1;"	e
+current_time	D:/用户目录/Documents/xspworkspace/auto-sign/xsp/src\tool.lua	30;"	e
+flag	D:/用户目录/Documents/xspworkspace/auto-sign/xsp/src\action.lua	69;"	e
+login	D:/用户目录/Documents/xspworkspace/auto-sign/xsp/src\action.lua	35;"	f
+logout	D:/用户目录/Documents/xspworkspace/auto-sign/xsp/src\action.lua	60;"	f
+moveX	D:/用户目录/Documents/xspworkspace/auto-sign/xsp/src\tool.lua	10;"	f
+moveY	D:/用户目录/Documents/xspworkspace/auto-sign/xsp/src\tool.lua	19;"	f
+pkgName	D:/用户目录/Documents/xspworkspace/auto-sign/xsp/src\config.lua	2;"	e
+restart	D:/用户目录/Documents/xspworkspace/auto-sign/xsp/src\action.lua	67;"	f
+sign	D:/用户目录/Documents/xspworkspace/auto-sign/xsp/src\action.lua	16;"	f
+snap	D:/用户目录/Documents/xspworkspace/auto-sign/xsp/src\tool.lua	29;"	f
+t	D:/用户目录/Documents/xspworkspace/auto-sign/xsp/src\main.lua	9;"	e
+tap	D:/用户目录/Documents/xspworkspace/auto-sign/xsp/src\tool.lua	3;"	f
+task	D:/用户目录/Documents/xspworkspace/auto-sign/xsp/src\action.lua	4;"	f
+timer	D:/用户目录/Documents/xspworkspace/auto-sign/xsp/src\main.lua	6;"	f
+users	D:/用户目录/Documents/xspworkspace/auto-sign/xsp/src\config.lua	4;"	e
+x	D:/用户目录/Documents/xspworkspace/auto-sign/xsp/src\action.lua	21;"	e
+y	D:/用户目录/Documents/xspworkspace/auto-sign/xsp/src\action.lua	22;"	e
